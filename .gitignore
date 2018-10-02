@@ -1,6 +1,9 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 /.idea/
+/.mvn/
+mvnw
+*.cmd
 ### STS ###
 .apt_generated
 .classpath
