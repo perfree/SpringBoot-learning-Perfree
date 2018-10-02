@@ -4,6 +4,7 @@
 /.mvn/
 mvnw
 *.cmd
+.gitignore
 ### STS ###
 .apt_generated
 .classpath
@@ -26,3 +27,11 @@ mvnw
 /dist/
 /nbdist/
 /.nb-gradle/
+01-start/.mvn/
+01-start/src/main/resources/static/
+01-start/src/main/resources/templates/
+01-start/target/
+02-freemarker/target/
+03-thymeleaf/.mvn/
+03-thymeleaf/src/main/resources/static/
+03-thymeleaf/target/
