@@ -19,3 +19,6 @@
 ### 06.SpringBoot整合Mybatis-Pagehelper分页插件
 文章地址:[SpringBoot-整合Mybatis分页插件-PageHelper](http://www.yinpengfei.com/toArticle/153853922119147.html "SpringBoot-整合Mybatis分页插件-PageHelper")<br>
 代码地址:[06-mybatis-pagehelper](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/06-mybatis-pagehelper "06-mybatis-pagehelper")
+### 07.SpringBoot整合Druid连接池
+文章地址:[SpringBoot-整合Druid连接池](http://www.yinpengfei.com/toArticle/153854598124172.html "SpringBoot-整合Druid连接池")<br>
+代码地址:[07-druid](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/07-druid "07-druid")
