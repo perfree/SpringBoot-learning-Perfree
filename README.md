@@ -10,3 +10,9 @@
 #### SpringBoot整合Thymeleaf
 文章地址:[SpringBoot-整合Thymeleaf](http://www.yinpengfei.com/toArticle/153846330032852.html "SpringBoot-整合Thymeleaf")
  代码地址:[03-Thymeleaf](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/03-thymeleaf "03-Thymeleaf")
+#### SpringBoot整合Mybatis-xml方式
+文章地址:[SpringBoot-整合Mybatis-xml方式](http://www.yinpengfei.com/toArticle/153852650720185.html "SpringBoot-整合Mybatis-xml方式")
+ 代码地址:[04-mybatis](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/04-mybatis "04-mybatis")
+#### SpringBoot整合Mybatis-annotation注解方式
+文章地址:[SpringBoot-整合Mybatis-Annotation方式](http://www.yinpengfei.com/toArticle/153852895313085.html "SpringBoot-整合Mybatis-Annotation方式")
+ 代码地址:[05-mybatis-annotation](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/05-mybatis-annotation "05-mybatis-annotation")
