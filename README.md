@@ -16,3 +16,6 @@
 #### SpringBoot整合Mybatis-annotation注解方式
 文章地址:[SpringBoot-整合Mybatis-Annotation方式](http://www.yinpengfei.com/toArticle/153852895313085.html "SpringBoot-整合Mybatis-Annotation方式")
  代码地址:[05-mybatis-annotation](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/05-mybatis-annotation "05-mybatis-annotation")
+#### SpringBoot整合Mybatis-Pagehelper分页插件
+文章地址:[SpringBoot-整合Mybatis分页插件-PageHelper](http://www.yinpengfei.com/toArticle/153853922119147.html "SpringBoot-整合Mybatis分页插件-PageHelper")
+ 代码地址:[06-mybatis-pagehelper](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/06-mybatis-pagehelper "06-mybatis-pagehelper")
