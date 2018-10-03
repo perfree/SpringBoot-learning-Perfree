@@ -22,3 +22,6 @@
 ### 07.SpringBoot整合Druid连接池
 文章地址:[SpringBoot-整合Druid连接池](http://www.yinpengfei.com/toArticle/153854598124172.html "SpringBoot-整合Druid连接池")<br>
 代码地址:[07-druid](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/07-druid "07-druid")
+### 08.SpringBoot-整合Mybatis-Druid-多数据源
+文章地址:[SpringBoot-整合Mybatis-Druid-多数据源](http://www.yinpengfei.com/toArticle/153858337377974.html "SpringBoot-整合Mybatis-Druid-多数据源")<br>
+代码地址:[08-MultipleDataSource](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/08-MultipleDataSource "08-MultipleDataSource")
