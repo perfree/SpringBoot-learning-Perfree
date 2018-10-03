@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.perfree.multipledatasource.mapper.test2.User2Mapper">
+    <!-- 根据用户id查询用户信息 -->
+    <select id="getUserById" parameterType="int" resultType="com.perfree.multipledatasource.pojo.User">
+        SELECT
+            id,
+            NAME,
+            age
+        FROM
+            USER2
+        WHERE
+            id = #{id}
+    </select>
+</mapper>
