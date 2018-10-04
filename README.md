@@ -25,3 +25,6 @@
 ### 08.SpringBoot-整合Mybatis-Druid-多数据源
 文章地址:[SpringBoot-整合Mybatis-Druid-多数据源](http://www.yinpengfei.com/toArticle/153858337377974.html "SpringBoot-整合Mybatis-Druid-多数据源")<br>
 代码地址:[08-MultipleDataSource](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/08-MultipleDataSource "08-MultipleDataSource")
+### 09.SpringBoot-整合Redis
+文章地址:[SpringBoot-整合Redis](http://www.yinpengfei.com/toArticle/153862318009165.html "SpringBoot-整合Redis")<br>
+代码地址:[09-redis](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/09-redis "09-redis")
