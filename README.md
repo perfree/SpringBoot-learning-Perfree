@@ -28,3 +28,6 @@
 ### 09.SpringBoot-整合Redis
 文章地址:[SpringBoot-整合Redis](http://www.yinpengfei.com/toArticle/153862318009165.html "SpringBoot-整合Redis")<br>
 代码地址:[09-redis](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/09-redis "09-redis")
+### 10.SpringBoot-整合JSP
+文章地址:[SpringBoot-整合JSP](http://www.yinpengfei.com/toArticle/153882760821815.html "SpringBoot-整合JSP")<br>
+代码地址:[10-jsp](https://github.com/perfree/SpringBoot-learning-Perfree/tree/master/10-jsp "10-jsp")
